@@ -1,0 +1,3 @@
+[submodule "vendor/phpmorphy"]
+	path = vendor/phpmorphy
+	url = git://github.com/heromantor/phpmorphy.git
